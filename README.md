@@ -5,7 +5,7 @@
 </em></p>
 
 
-[![Linkedin: Sahil-Kushwaha](https://img.shields.io/linkedin/follow/sahil-kushwahaa?style=flat-square)](https://www.linkedin.com/in/sahil-kushwaha-ba67b0285/)
+[![Linkedin: Sahil-Kushwaha](https://i.sstatic.net/gVE0j.png/follow/sahil-kushwahaa?style=flat-square)](https://www.linkedin.com/in/sahil-kushwaha-ba67b0285/)
 [![GitHub sahil-kushwahaa](https://img.shields.io/github/followers/sahil-kushwahaa?label=follow%20github&style=flat-square)](https://github.com/sahil-kushwahaa)
 <br>
 
