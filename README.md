@@ -4,8 +4,9 @@
  I am a Bug Hunter, who has a keen interest in Web Application Security, and who enjoys doing bug bounties.
 </em></p>
 
-[![Linkedin: sahil-kushwaha-ba67b0285]([https://img.shields.io/twitter/follow/KathanP19](https://www.linkedin.com/in/sahil-kushwaha-ba67b0285)?style=flat-square)]
-[![GitHub sahil-kushwahaa]([https://img.shields.io/github/followers/KathanP19](https://github.com/sahil-kushwahaa/)?label=follow%20github&style=flat-square)]([[https://github.com/KathanP19](https://github.com/sahil-kushwahaa/)](https://github.com/sahil-kushwahaa/))
+
+[![Linkedin: Sahil-Kushwaha](https://img.shields.io/twitter/follow/sahil-kushwahaa?style=flat-square)](https://www.linkedin.com/in/sahil-kushwaha-ba67b0285/)
+[![GitHub sahil-kushwahaa](https://img.shields.io/github/followers/sahil-kushwahaa?label=follow%20github&style=flat-square)](https://github.com/sahil-kushwahaa)
 
 <br>
 
